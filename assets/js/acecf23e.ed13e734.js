@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktogaf=self.webpackChunktogaf||[]).push([[1903],{1912:t=>{t.exports=JSON.parse('{"blogBasePath":"/togaf/blog","blogTitle":"Blog","authorsListPath":"/togaf/blog/authors"}')}}]);

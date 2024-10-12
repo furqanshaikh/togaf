@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunktogaf=self.webpackChunktogaf||[]).push([[5044],{5377:t=>{t.exports=JSON.parse('{"metadata":{"permalink":"/togaf/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
